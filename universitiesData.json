@@ -1,0 +1,21 @@
+[
+  {
+    "universityName": "University of Melbourne",
+    "aboutUniversity": "In 1853, the University of Melbourne had its humble beginnings as a small collection of buildings nestled in a spacious park on the outskirts of the city. At that time, it boasted a modest staff of four professors and a student body consisting of just 16 individuals. Today, this esteemed institution occupies a central position in a bustling international metropolis and consistently holds high rankings among the world's top universities, proudly holding the top spot in Australia.",
+    "admissionRequirements": "GMAT 650+, IELTS 6+, TOEFL 79+, SAT 1250+ , ATAR 55+",
+    "deadline": "February 26th, 2024",
+    "scholarship": "Various Scholarships are available for international students.",
+    "fees": "$30,000.00 AUD - $105,000.00 AUD per year",
+    "rankings": "#14th in the world"
+  },
+  {
+    "universityName": "University of New South Wales(Sydney)",
+    "aboutUniversity": "UNSW Sydney stands as a globally renowned institution for education and research, earning the recognition and respect of employers and organizations across the world. Its remarkable performance is evident in its placement among the top 20 universities in the prestigious QS World University Rankings for 2024. UNSW is committed to nurturing the development of forward-thinking graduates who aspire to create a meaningful and lasting impact on the global stage.",
+    "admissionRequirements": "GMAT 550+, IELTS 6.5+, TOEFL 90+, SAT 1130+, ATAR 75+",
+    "deadline": "February 26th, 2024",
+    "scholarship": "Various Scholarships are available for international students.",
+    "fees": "$25,000.00 AUD - $95,000.00 AUD per year",
+    "rankings": "#19th in the world"
+  }
+]
+
